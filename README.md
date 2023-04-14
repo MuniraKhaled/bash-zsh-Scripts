@@ -1,4 +1,4 @@
-# Useful bash\zsh Scripts 🎛️
+# Useful Bash Scripts 🎛️
 
 ## What?
 As I first learned scripting, I searched for scripting use cases outside of the DevOps field, but was unable to find many. This motivated me to share my own bash/zsh scripts in this repository, with the hope of that it will help others to automate some tasks in their terminal for other than DevOps work loads which translates to "Personal Workload" :) enjoy.
