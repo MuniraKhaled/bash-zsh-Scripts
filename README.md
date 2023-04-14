@@ -10,6 +10,6 @@ As I first learned scripting, I searched for scripting use cases outside of the 
 
 ### Scripts descriptions 
 
-* In the [AlgoTradNotebook](AlgoTradNotebook) I converted three lines of commands into one which is the execute command `./script_name.sh` in Linux.  Here's what the script does: it echoes that the script is running, creates a Python environment, changes directory to the desired location, and then opens Jupyter notebook. This is automation at its best! Isn't that amazing? 😂
+* In the [AlgoTradNotebook](AlgoTradNotebook) I converted three lines of commands into one which is the execute command `./script_name.sh` in Unix based systems.  Here's what the script does: it echoes that the script is running, creates a Python environment, changes directory to the desired location, and then opens Jupyter notebook. This is automation at its best! Isn't that amazing? 😂
 
 * The [play around scripts](/play_around_scripts) file is scripts that I wrote while learning from [Chuck Keith](https://twitter.com/networkchuck) in his [youtube bash course](https://youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS)
