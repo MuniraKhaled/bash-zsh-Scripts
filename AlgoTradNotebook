@@ -1,0 +1,9 @@
+#! /bin/zsh
+
+echo opening  Algoritmic Jupyter Tarding Notebook ...
+
+source pythonEnv/bin/activate
+
+cd /Users/munirhkhaled/PythonEnv/algorithmic-trading-python
+
+python -m notebook     
