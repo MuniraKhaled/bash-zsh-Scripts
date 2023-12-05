@@ -1,14 +1,25 @@
-# Useful Bash Scripts 🎛️
+# Useful Bash Scripts Repository 🎛️
 
-As I first learned scripting, I searched for scripting use cases outside of the DevOps field, but was unable to find many. This motivated me to share my own bash/zsh scripts in this repository, with the hope of that it will help others to automate some tasks in their terminal for other than DevOps Workloads which translates to **Personal Workload** :) enjoy.
+## Introduction
+This repository is a collection of bash/zsh scripts I've created, inspired by the need for scripting applications beyond the typical DevOps context. The focus here is on **Personal Workload** automation, providing scripts that facilitate various tasks through the terminal, enhancing efficiency and convenience for users.
 
+## Script Highlights
 
+### 1. AlgoTradNotebook
+- **Purpose:** Simplifies the process of setting up a Python environment and launching Jupyter Notebook for algorithmic trading projects.
+- **Functionality:** With a single command (`./script_name.sh`), this script:
+  - Announces its execution.
+  - Creates a Python environment.
+  - Navigates to the specified directory.
+  - Opens Jupyter Notebook.
+- **Impact:** Streamlines the workflow for setting up a project environment, demonstrating the power of automation in everyday tasks.
 
+### 2. Play Around Scripts
+- **Source of Learning:** These scripts are a result of lessons learned from [Chuck Keith](https://twitter.com/networkchuck) through his [YouTube bash course](https://youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS).
+- **Nature:** A compilation of scripts created during the learning phase, showcasing the practical application of bash scripting knowledge.
 
+## Repository Purpose
+The primary aim of this repository is to share knowledge and tools that can help others automate tasks in their terminals, especially those not typically associated with DevOps. It's designed to inspire and assist individuals in their journey of exploring the vast capabilities of bash/zsh scripting for personal and professional tasks.
 
-
-### Scripts descriptions 
-
-* In the [AlgoTradNotebook](AlgoTradNotebook) I converted three lines of commands into one which is the execute command `./script_name.sh` in Unix based systems.  Here's what the script does: it echoes that the script it is running, creates a Python environment, changes directory to the desired location of the environment, and then opens Jupyter notebook. This is automation at its best! Isn't that amazing? 😂.
-
-* The [play around scripts](/play_around_scripts) file is scripts that I wrote while learning from [Chuck Keith](https://twitter.com/networkchuck) in his [youtube bash course](https://youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS).
+## Conclusion
+This collection of scripts is more than just a learning showcase; it's a testament to the transformative power of scripting in enhancing personal workflows and task management. Whether you're a beginner or an experienced user, these scripts offer valuable insights and tools to elevate your scripting game.
