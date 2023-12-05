@@ -1,7 +1,7 @@
 # Useful Bash Scripts Repository 🎛️
 
 ## Introduction
-This repository is a collection of bash/zsh scripts I've created, inspired by the need for scripting applications beyond the typical DevOps context. The focus here is on **Personal Workload** automation, providing scripts that facilitate various tasks through the terminal, enhancing efficiency and convenience for users.
+This repository is a curated collection of bash/zsh scripts designed to automate various personal workload tasks. Focusing on practicality and efficiency, these scripts address common needs such as setting up Python environments and managing version control workflows.
 
 ## Script Highlights
 
